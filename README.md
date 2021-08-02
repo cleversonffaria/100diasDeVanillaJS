@@ -9,7 +9,7 @@
  ## Regras Gerais :warning:
 
 * Finalizar 100 projetos no prazo limite de 100 dias.
-* Compartilhar seu progresso nas redes sociais (Linkedin, Instagram, Twitter, etc.) usando a hashtag #30diasDeVanillaJS.
+* Compartilhar seu progresso nas redes sociais (Linkedin, Instagram, Twitter, etc.) usando a hashtag #100diasDeVanillaJS.
 * Não é necessário que seja realizado um projeto por dia, e sim que você consiga entregar os 100 projetos em até 100 dias, sendo assim, mais de um projeto pode ser realizado durante um dia, e você também não precisa entregar um até o fim do dia, se não tiver tempo durante um dia ou outro, não tem problema, o mais importante é que você mantenha a constancia codando durante este prazo e entregue o numero total dos projetos.
 
 #### Referencias dos desafios - Canais do YouTube :arrow_forward:
