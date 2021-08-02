@@ -1,6 +1,6 @@
 # Projeto 001: Countdown
 
-Demo: [https://100dias-de-vanilla-js.vercel.app/](https://100dias-de-vanilla-js.vercel.app/)
+Demo: [https://project-001-countdown.vercel.app/](https://project-001-countdown.vercel.app/)
 
 ---
 
