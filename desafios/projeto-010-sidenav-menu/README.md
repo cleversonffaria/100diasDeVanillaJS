@@ -1,4 +1,4 @@
-# Projeto 010: Captura de movimento e animação com cursor
+# Projeto 010: Barra de menu lateral
 
 ---
 
